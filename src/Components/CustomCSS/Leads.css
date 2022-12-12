@@ -1,0 +1,25 @@
+.leadsContainer{
+    margin-left: 22vw;
+    padding: 1rem;
+    margin-top: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+
+}
+.dataLead{
+    color: #ff3838;
+    font-weight: 500;
+}
+.tableRow{
+    cursor: pointer;
+}
+.tableRow:hover{
+    background-color: #fee2e2;
+
+}
+@media screen and (max-width:992px){
+    .leadsContainer{
+        margin-left: 0;
+        padding: 1rem;
+    }
+}

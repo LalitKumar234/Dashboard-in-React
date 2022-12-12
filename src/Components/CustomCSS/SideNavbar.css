@@ -1,0 +1,71 @@
+.sideNavbarContainer{
+    background-color:#ff3838;
+    width: 20vw;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 1;
+}
+.logo{
+    width: 100%;
+    font-size: 2rem;
+
+}
+.telecaller{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-top: 0.6px solid white;
+    border-bottom: 0.6px solid white;
+}
+.profilePic{
+    width: 40px;
+    height: 40px;
+    opacity: 0.7;
+    background-color: white;
+    border-radius: 50%;
+}
+.info > h1{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.info > p{
+    font-size: 0.8rem;
+}
+
+.expand{
+    font-size: 1.5rem;
+}
+.menus > li{
+    list-style: none;
+}
+.menus > li >p{
+    margin-left: 15px;
+}
+.menu-items{
+    color: #ffff;
+    cursor: pointer;
+}
+.menu-items:hover{
+    color: #ffff;
+}
+.hamburger{
+    position: fixed;
+    top: 1rem;
+    left: 2rem;
+    color: #ff3838;
+    cursor: pointer;
+    z-index: 2;
+    background-color: white;
+    border-radius: 5px;
+}
+@media screen and (max-width:992px){
+    .sideNavbarContainer{
+        width: 40vw;
+        padding: 1rem;
+    }
+}
+@media screen and (max-width:576px){
+    .sideNavbarContainer{
+        width: 60vw;
+        padding: 1rem;
+    }
+}

@@ -1,0 +1,22 @@
+.projectContainer{
+    margin-left: 22vw;
+    margin-right: 2vw;
+    margin-top: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+    z-index: -1;
+}
+.P-id{
+    border-right: 2px solid #ff3838;
+    padding-right:1rem;
+    padding-left:1rem;
+}
+.p-tracking{
+    padding-left:1rem;
+}
+@media screen and (max-width:992px){
+    .projectContainer{
+        padding: 1rem;
+        margin-left: 0;
+    }
+}

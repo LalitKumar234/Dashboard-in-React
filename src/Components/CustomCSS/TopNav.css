@@ -1,0 +1,8 @@
+.topNavContainer{
+    padding-left: 2rem;
+    margin-bottom: 3rem;
+}
+.topNavContainer > h1{
+    font-size: 1.5rem;
+    font-weight: bold;
+}

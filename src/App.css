@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.my-btn {
+  color: white;
+  background-color: #ff3838;
+  padding: 10px 25px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 3px;
+  font-weight: bolder;
+  margin:5px;
+  font-size: 0.8rem;
+}
+.my-btn:hover{
+  background-color: #dd1c1c;
+}
+.disable{
+  color: black;
+  background-color: #e7e7e7;
+  padding: 10px 25px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 3px;
+  font-weight: 500;
+  margin:5px;
+  font-size: 0.8rem;
+  font-weight: bolder;
+}
+input{
+  border: none;
+}
+input:focus{
+  outline: none;
+}

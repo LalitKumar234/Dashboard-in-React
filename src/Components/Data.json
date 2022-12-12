@@ -1,0 +1,68 @@
+
+[
+    {
+        "Customer" :"Akash Kumar",
+        "Lead_ID" : "00765451",
+        "Location" : "Hyderabad",
+        "Event_Date" : "2-8-2022",
+        "Status" : "New"
+    },
+    {
+        "Customer" :"Mahohar H",
+        "Lead_ID" : "00765452",
+        "Location" : "Vijayavada",
+        "Event_Date" : "2-8-2022",
+        "Status" : "Pipeline"
+    },
+    {
+        "Customer" :"Ragvender",
+        "Lead_ID" : "00765453",
+        "Location" : "Banglore",
+        "Event_Date" : "2-8-2022",
+        "Status" : "Pipeline"
+    },
+    {
+        "Customer" :"Abhishek k",
+        "Lead_ID" : "00765454",
+        "Location" : "Hyderabad",
+        "Event_Date" : "2-8-2022",
+        "Status" : "Pipeline"
+    },
+    {
+        "Customer" :"Udith Kumar",
+        "Lead_ID" : "00765455",
+        "Location" : "Pune",
+        "Event_Date" : "2-8-2022",
+        "Status" : "Assigned TO SP"
+    },
+    {
+        "Customer" :"Raju L",
+        "Lead_ID" : "00765456",
+        "Location" : "Hyderabad",
+        "Event_Date" : "2-8-2022",
+        "Status" : "New"
+    },
+    {
+        "Customer" :"Rahul L",
+        "Lead_ID" : "00765457",
+        "Location" : "Vijayavada",
+        "Event_Date" : "2-8-2022",
+        "Status" : "Pipeline"
+    },
+    {
+        "Customer" :"Sumit Tiwary",
+        "Lead_ID" : "00765458",
+        "Location" : "Banglore",
+        "Event_Date" : "2-8-2022",
+        "Status" : "Pipeline"
+    },
+    {
+        "Customer" :"Sanjana",
+        "Lead_ID" : "00765459",
+        "Location" : "Hyderabad",
+        "Event_Date" : "2-8-2022",
+        "Status" : "Pipeline"
+    }
+
+    
+]
